@@ -44,7 +44,7 @@ skills_col1, skills_col2 = st.columns(2)
 
 with skills_col1:
     st.write("- Python")
-    st.write("- HTML / CSS / JavaScript")
+    st.write("- IoT Systems")
     st.write("- SQL")
     
 st.markdown("---")
