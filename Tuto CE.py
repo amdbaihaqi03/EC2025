@@ -10,7 +10,7 @@ with col1:
     st.image("https://github.com/user-attachments/assets/2c5db5d3-26d2-4695-bdd7-b8323db49fff", caption="Ahmad Baihaqi", use_container_width=True)  # Replace with your image path or URL
 
 with col2:
-    st.title("Ahmad Baihaqi Bin Ruzlan")
+    st.markdown("<h1 style='font-size: 34px; margin-bottom: 4px;'>Ahmad Baihaqi Bin Ruzlan</h1>", unsafe_allow_html=True)
     st.write("📍 Location: Kelantan, Malaysia")
     st.write("✉️ Email: azbaihaqi03@gmail.com")
     st.write("📞 Phone: +60143593135")
@@ -55,9 +55,9 @@ st.write("**Water Leakage Detection IoT System**")
 st.write("- Designed an IoT-based system using ESP8266 to detect water leakage in real time")
 st.write("- Integrated with a mobile app for instant notifications")
 
-st.write("**Twitter Hate Speech Detection**")
-st.write("- Adapted a Transformer model to detect hate speech using PyTorch")
-st.write("- Achieved 90% accuracy on test data")
+st.write("**Weather Monitoring System**")
+st.write("- Developed a real-time weather monitoring device using sensors to measure temperature, humidity, and rainfall")
+st.write("- Displayed collected data on Blynk dashboard to monitor the system")
 
 st.markdown("---")
 
