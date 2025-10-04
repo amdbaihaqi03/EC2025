@@ -27,14 +27,9 @@ st.markdown("---")
 
 # ----- WORK EXPERIENCE SECTION -----
 st.header("💼 Work Experience")
-st.write("**Software Intern**, Tech Company (Jun 2023 – Aug 2023)")
-st.write("- Developed internal dashboard using Python and Streamlit")
-st.write("- Automated data processing tasks, reducing manual work by 40%")
-st.write("- Collaborated with the data team to deploy ML models")
-
-st.write("**Freelance Web Developer** (2022 – Present)")
-st.write("- Built personal and business websites using HTML, CSS, and JavaScript")
-st.write("- Customized WordPress themes and improved SEO performance")
+st.write("**Student Helper**, University Event")
+st.write("- Assisted in setting up event booths, registration counters, and guiding participants")
+st.write("- Helped ensure smooth event operations by coordinating with staff and attendees")
 
 st.markdown("---")
 
