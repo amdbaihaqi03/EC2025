@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="My Resume", page_icon="📄", layout="centered")
 
 # ----- MAIN TITLE -----
-st.markdown("<h2 style='text-align: center; margin-top: 10px;'>📄 My Resume</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; margin-top: 10px;'> My Resume</h2>", unsafe_allow_html=True)
 
 st.markdown("---")
 
