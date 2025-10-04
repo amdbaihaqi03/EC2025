@@ -10,19 +10,18 @@ with col1:
     st.image("https://github.com/user-attachments/assets/b9001e4e-23d9-46cd-a08a-16a785cdbd7c", caption="Your Name", use_container_width=True)  # Replace with your image path or URL
 
 with col2:
-    st.title("Your Full Name")
-    st.write("📍 Location: City, Country")
-    st.write("✉️ Email: your.email@example.com")
-    st.write("📞 Phone: +6012-3456789")
+    st.title("Ahmad Baihaqi Bin Ruzlan")
+    st.write("📍 Location: Kelantan, Malaysia")
+    st.write("✉️ Email: azbaihaqi03@gmail.com")
+    st.write("📞 Phone: +60143593135")
     st.write("🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)")
 
 st.markdown("---")
 
 # ----- EDUCATION SECTION -----
 st.header("🎓 Education")
-st.write("**Bachelor of Computer Science**, University Name (2020 – 2024)")
+st.write("**Bachelor of Information Technology with Honours**, University Malaysia Kelantan (2022 – 2026)")
 st.write("- Major in Artificial Intelligence")
-st.write("- Dean’s List Award (2021, 2022)")
 
 st.markdown("---")
 
