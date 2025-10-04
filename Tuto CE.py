@@ -13,7 +13,7 @@ with col2:
     st.markdown("<h1 style='font-size: 34px; margin-bottom: 4px;'>Ahmad Baihaqi Bin Ruzlan</h1>", unsafe_allow_html=True)
     st.write("📍 Location: Kelantan, Malaysia")
     st.write("✉️ Email: azbaihaqi03@gmail.com")
-    st.write("📞 Phone: +60143593135")
+    st.write("📞 Phone: +6014-3593135")
     st.write("🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)")
 
 st.markdown("---")
