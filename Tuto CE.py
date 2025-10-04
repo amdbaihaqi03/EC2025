@@ -7,7 +7,7 @@ st.set_page_config(page_title="My Resume", page_icon="📄", layout="centered")
 col1, col2 = st.columns([1, 3])
 
 with col1:
-    st.image("https://via.placeholder.com/150", caption="Your Name", use_container_width=True)  # Replace with your image path or URL
+    st.image("https://github.com/user-attachments/assets/b9001e4e-23d9-46cd-a08a-16a785cdbd7c", caption="Your Name", use_container_width=True)  # Replace with your image path or URL
 
 with col2:
     st.title("Your Full Name")
