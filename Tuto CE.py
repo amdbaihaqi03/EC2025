@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="My Resume", page_icon="📄", layout="centered")
 
 # ----- HEADER SECTION -----
-col1, col2 = st.columns([3, 3])
+col1, col2 = st.columns([0.5, 1.5])
 
 with col1:
     st.image("https://github.com/user-attachments/assets/b9001e4e-23d9-46cd-a08a-16a785cdbd7c", caption="Ahmad Baihaqi", use_container_width=True)  # Replace with your image path or URL
