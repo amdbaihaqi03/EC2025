@@ -65,7 +65,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; color: grey; font-size: 0.9em;'>
-        © 2025 Your Name | Built with ❤️ using Streamlit
+        © 2025 Baihaqi Ruzlan | Built with ❤️ using Streamlit
     </div>
     """,
     unsafe_allow_html=True
