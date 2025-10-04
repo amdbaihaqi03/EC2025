@@ -10,7 +10,7 @@ with col1:
     st.image("https://github.com/user-attachments/assets/2c5db5d3-26d2-4695-bdd7-b8323db49fff", caption="Ahmad Baihaqi", use_container_width=True)  # Replace with your image path or URL
 
 with col2:
-    st.title("Ahmad Baihaqi Bin Ruzlan")
+    st.markdown("<h1 style='font-size: 34px; margin-bottom: 4px;'>Ahmad Baihaqi Bin Ruzlan</h1>", unsafe_allow_html=True)
     st.write("📍 Location: Kelantan, Malaysia")
     st.write("✉️ Email: azbaihaqi03@gmail.com")
     st.write("📞 Phone: +60143593135")
